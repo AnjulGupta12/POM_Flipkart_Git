@@ -2,7 +2,8 @@
 Learning phase
 
 
-HOW TO ADD GIT FILE VIA 
+HOW TO ADD FOLDER via GIT BASH
+
 1. Open Git Bash 
 2. git --version
 3. open project folder in git bush 
